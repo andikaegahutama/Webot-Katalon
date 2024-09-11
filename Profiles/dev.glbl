@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>dev</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cs.dien@erdigma.id'</initValue>
+      <name>CS_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lOg2vxVX'</initValue>
+      <name>CS_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'crm.laras@erdigma.id'</initValue>
+      <name>CRM_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'0befb5bc276d'</initValue>
+      <name>CRM_Password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
